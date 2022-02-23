@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for open programming job positions.
-- 🌱 I’m currently learning the Next.js + React + Tailwind stack.
+- 🌱 I’m currently learning the Next.js + React + Tailwind stack. I also love Crypto and am actively learning about the Eth stack as time let's me.
 - 📫 How to reach me: Feel free to message me on LinkedIn.
 
 <!--
