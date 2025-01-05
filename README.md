@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently looking for open programming job positions.
 - 🌱 I’m currently learning the Next.js + React + Tailwind stack.
-- 📫 How to reach me: HMU on LinkedIn.
+- I'm experienced in Java, Spring Boot, and Kafka.
+- 📫 How to reach me: HMU on LinkedIn, email or phone.
 
 <!--
 **erhkim/erhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
