@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for open programming job positions.
+- 🔭 Passionate about learning how to learn.
 - 🌱 I’m currently learning the Next.js + React + Tailwind stack.
-- I'm experienced in Java, Spring Boot, and Kafka.
+- 💼 I'm experienced in Java, Spring Boot, and Kafka.
 - 📫 How to reach me: HMU on LinkedIn, email or phone.
 
 <!--
